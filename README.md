@@ -1,1 +1,1 @@
-# MiniProject____SMS-SpamClassifier
+# MiniProject_SMS_Spam_Classifier
